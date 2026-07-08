@@ -13,6 +13,7 @@ public class Main {
 
 
         System.out.println("This is from DemoApplication-2");
+        System.out.println("This is from DemoApplication-1");
 
 
 
